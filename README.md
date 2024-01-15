@@ -43,4 +43,4 @@
 
 ------------
 
->** "If you have work with me, or you have criticism and suggestions for me, you can share with me through this [Link](http://localhost/)" **
+>** "If you have work with me, or you have criticism and suggestions for me, you can share with me through this [Link](https://docs.google.com/forms/d/e/1FAIpQLSer17Uo7RHkwUy-MQxCsr-hD6AKh2Vw4IZJBm7yR1hW_YUAeA/viewform?usp=sf_link)" **
